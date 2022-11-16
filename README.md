@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julio Lemus</h1>
-<h3 align="center">I'm an aspiring Marketing Solutions Developer, focused on expanding my knowledge within programming and learning automation solutions.</h3>
+<h1 align="left">Hi 👋, I'm Julio Lemus</h1>
+<h3 align="left">I'm an aspiring Marketing Solutions Developer, focused on expanding my knowledge within programming and learning automation solutions.</h3>
 
 - 🔭 I’m currently working on **Marketo and Salesforce Certification**
 
