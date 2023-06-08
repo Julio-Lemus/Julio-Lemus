@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Julio Lemus</h1>
-<h3 align="left">I'm an aspiring Marketing Solutions Developer, focused on expanding my knowledge within programming and learning automation solutions.</h3>
+<h3 align="left">I'm an aspiring data engineer, focused on building automation and modeling analysis for marketing solutions.</h3>
 
-- 🔭 I’m currently working on **Marketo and Salesforce Certification**
+- 🔭 I’m currently working on **J.P. Morgan Corporate Analyst Development Program (CADP)**
 
-- 🌱 I’m currently learning **Web Development and Business Automation Solutions**
+- 🌱 I’m currently learning **Digital marketing fundamentals**
 
 - 💬 Ask me about **Python, NumPy, Data Science**
 
