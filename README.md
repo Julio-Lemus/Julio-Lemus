@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Julio Lemus</h1>
 <h3 align="left">I'm an aspiring data engineer, focused on building automation and modeling analysis for marketing solutions.</h3>
 
-- 🔭 I’m currently working on **J.P. Morgan Corporate Analyst Development Program (CADP)**
+- 🔭 I’m currently working on **KaggleX Mentorship Program**
 
-- 🌱 I’m currently learning **Digital marketing fundamentals**
+- 🌱 I’m currently learning **Predictive Analytics**
 
-- 💬 Ask me about **Python, NumPy, Data Science**
+- 💬 Ask me about **Python, Machine Learning, Data Science**
 
 - 📫 How to reach me **17julemus@gmail.com**
 
