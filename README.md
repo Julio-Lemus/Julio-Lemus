@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Julio Lemus</h1>
 <h3 align="left">I'm an aspiring data scientist, focused on building automation and modeling analysis for businesses.</h3>
 
-- 🔭 I’m currently working on **A Generative AI to streamline content creation from text-to-video by integrating a Hugging Face Model.**
-
-- 🌱 I’m currently learning **Data Analytics**
+- 🔭 I’m currently working on **Python Data Science and Machine Learning Bootcamp.**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
